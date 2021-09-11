@@ -38,7 +38,6 @@ Steps :walking: :
 
 * Build Status to run tests, on every branches
 * Coverage status to generate Coveralls badge on push and PR
-* Linter status for push and PR
 * NPM publish on releases
 
 </details>
