@@ -1,7 +1,7 @@
 ---
 name: Story
 about: Story to organize development
-title: "[STORY]"
+title: "[PACKAGE_NAME] - Package -"
 labels: enhancement
 assignees: gastonpereyra
 
