@@ -2,7 +2,7 @@
 
 ## Code Quality Status
 ![Build Status](https://github.com/gastonpereyra/PACKAGE_NAME/workflows/Build%20Status/badge.svg)
-[![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/PACKAGE_NAME/master.svg)](https://coveralls.io/r/gastonpereyra/PACKAGE_NAME?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/gastonpereyra/PACKAGE_NAME/badge.svg?branch=master)](https://coveralls.io/github/gastonpereyra/PACKAGE_NAME?branch=master)
 
 ![PACKAGE_NAME Banner](PACKAGE_BANNER)
 
